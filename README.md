@@ -17,3 +17,9 @@ python sync_previous_module.py previous-module-dir current-module-dir
 The files that will be synced are:
 
         minitorch/operators.py minitorch/module.py minitorch/autodiff.py minitorch/scalar.py minitorch/module.py project/run_manual.py project/run_scalar.py
+
+
+## Tests
+
+Как обычно, пруфы того, что все осмысленные тесты проходят, во вкладке actions и тут, сетап чинить не хочется
+![image](https://github.com/user-attachments/assets/38b49aa5-4f43-4d13-bba6-d3b7d4547f13)
